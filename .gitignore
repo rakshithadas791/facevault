@@ -1,0 +1,18 @@
+﻿# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+build/
+
+# App data (contains face embeddings, don't upload)
+*.db
+*.pkl
+backend/eval_data/
+backend/accuracy_results.csv
+
+# Editor / OS
+.vscode/
+.DS_Store

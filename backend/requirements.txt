@@ -1,0 +1,10 @@
+tensorflow
+keras
+keras-facenet
+mtcnn
+opencv-python
+flask
+flask-cors
+numpy
+pillow
+scikit-learn
